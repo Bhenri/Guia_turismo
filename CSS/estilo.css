@@ -1,0 +1,110 @@
+/*início do css das paginas*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*corpo de todas as páginas*/
+body{
+    background: rgb(216, 215, 215);
+}
+/*menu*/
+#menu{
+    background-color: rgb(9, 1, 75);
+    color: blanchedalmond;
+    font-size: 1.5em;
+    font-family: calibri;
+}
+/*banner do site*/
+.banner{
+    margin-top: 10%;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*Conteúdo do site*/
+.conteudo{
+    
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.titulo_apresentacao{
+    text-align: center;
+}
+.welcome{
+    text-align: justify;
+    font-size: 1.5em;
+    color: #000; 
+}
+.map{
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+}
+.apresentacao{
+    text-align: justify;
+    font-size: 1.5em;
+    color: #000;
+}
+.convento{
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+}
+
+/*Título*/
+.div_titulo{
+    width: 100%;
+    height: auto;
+    background: #0457a5;
+    color: #ffffff;
+    font-family: impact;
+    text-align: center;
+}
+
+/*Carrosel na página inicial*/
+.carrosel{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*Presente nas páginas roteiro, hospedagem e gastronomia*/
+.col-7{
+    font-size: 1.8em;
+    text-align: justify;
+}
+.photos{
+    width: 100%;
+    border-radius: 12px;
+}
+/*Rodapé presente em todas as páginas*/
+
+.rodape{
+    background-color: rgb(9, 1, 75);
+    color: blanchedalmond;
+    font-size: 2em;
+    font-family: calibri;
+    padding: 2%;
+}
+/*Presente na página de contato*/
+.redes{
+    
+    
+        width: 100%;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+}
+.icones{
+    padding: 3%;
+    width: 22%;
+}
